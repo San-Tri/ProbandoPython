@@ -3,4 +3,7 @@
 # primero poner una variable con su respectivo valor.
 a=23
 b=13
-# ahora tenemos que hacer que los variables pero eso en la siguiente clase...
+# usamos print para ver el resultado de la suma.
+print("la suma es:",a+b)
+
+# ahora toca hacer la multiplicacion, pero eso tendra que esperar...
